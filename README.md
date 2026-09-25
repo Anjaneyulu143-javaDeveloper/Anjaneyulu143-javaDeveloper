@@ -104,8 +104,8 @@ I’m particularly interested in building systems that are **scalable, observabl
 
 ## 📫 Let's Connect
 
-* 💼 **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/anjaneyulu-daddala-b10b1a23a/))
-* 📧 **Email:** [your-email@example.com](mailto:anjaneyuludaddala07@example.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/anjaneyulu-daddala-b10b1a23a/](https://www.linkedin.com/)
+* 📧 **Email:** [anjaneyuludaddala07@gmail.com](mailto:your-email@example.com)
 * 🐙 **GitHub:** [@your-github-username](https://github.com/)
 
 > 💡 Open to connecting with engineers, recruiters, and developers working on **Java, Cloud, Microservices, DevOps, and AI-powered applications**.
